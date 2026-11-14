@@ -87,8 +87,10 @@ Test Management and Risk Analysis
 
 Key concepts:
 
-Testing is the process of evaluating a system to identify defects  
-A defect is an error that can cause incorrect behavior  
+Testing is the process of evaluating the quality of a system, finding defects and reducing the risk of failures, building confidence in the product  
+An error (mistake) is a human action that produces an incorrect result  
+A defect is an imperfection in a work product, caused by a human error, that can lead to a failure  
+A failure is the incorrect behavior observed when a defect is executed  
 Verification answers whether we are building the product right  
 Validation answers whether we are building the right product  
 Regression testing ensures that changes do not affect existing functionality  

@@ -87,8 +87,10 @@ Gestão de Testes e Análise de Risco
 
 Principais conceitos:
 
-Teste é o processo de avaliar um sistema para identificar defeitos  
-Defeito é um erro que pode causar comportamento incorreto  
+Teste é o processo de avaliar a qualidade de um sistema, encontrar defeitos e reduzir o risco de falhas, gerando confiança no produto  
+Erro (engano) é uma ação humana que produz um resultado incorreto  
+Defeito é uma imperfeição em um produto de trabalho, causada por um erro humano, que pode levar a uma falha  
+Falha é o comportamento incorreto observado quando um defeito é executado  
 Verificação responde se estamos construindo corretamente  
 Validação responde se estamos construindo o produto certo  
 Teste de regressão garante que mudanças não afetem funcionalidades existentes  
