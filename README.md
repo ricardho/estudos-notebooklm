@@ -8,6 +8,18 @@ The goal goes beyond traditional studying: it seeks to turn static content into 
 
 ---
 
+## 📂 Study Material
+
+| Material | Content |
+|---|---|
+| [📖 Chapter guide](docs/chapter-guide.md) | Exam structure, weight of each chapter (K1/K2/K3) and a summary of the points that come up most often |
+| [✍️ K3 exercises](docs/k3-exercises.md) | Worked exercises for each K3 objective: equivalence partitioning, boundary values, decision tables, state transitions, ATDD, estimation, prioritization and defect reports |
+| [🔤 PT ↔ EN glossary](docs/glossary.md) | The most frequently tested terms in Portuguese and English, and the most confused pairs |
+
+Based on the official **CTFL v4.0.1** syllabus and the ISTQB *Exam Structures & Rules Tables*.
+
+---
+
 ## 🎯 Context, Goal and Approach
 
 The central topic of this notebook is the ISTQB CTFL certification, based on ISTQB's own official documentation and relevant complementary content from the field.

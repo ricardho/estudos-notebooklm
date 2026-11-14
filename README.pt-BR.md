@@ -8,6 +8,18 @@ A proposta vai além do estudo tradicional, buscando transformar conteúdo está
 
 ---
 
+## 📂 Material de Estudo
+
+| Material | Conteúdo |
+|---|---|
+| [📖 Guia por capítulo](docs/chapter-guide.pt-BR.md) | Estrutura da prova, peso de cada capítulo (K1/K2/K3) e resumo dos pontos que mais caem |
+| [✍️ Exercícios K3](docs/k3-exercises.pt-BR.md) | Exercícios resolvidos para cada objetivo K3: partição de equivalência, valor limite, tabela de decisão, transição de estados, ATDD, estimativa, priorização e relatório de defeito |
+| [🔤 Glossário PT ↔ EN](docs/glossary.md) | Termos mais cobrados em português e inglês, e os pares que mais confundem |
+
+Baseado no syllabus oficial **CTFL v4.0.1** e nas *Exam Structures & Rules Tables* do ISTQB.
+
+---
+
 ## 🎯 Contexto, Objetivo e Abordagem
 
 O tema central deste caderno é a certificação ISTQB CTFL, utilizando como base a documentação oficial do próprio ISTQB e conteúdos complementares relevantes da área.
