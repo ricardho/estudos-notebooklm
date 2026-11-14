@@ -1,125 +1,127 @@
-# 📚 ISTQB CTFL Study Hub com NotebookLM
+# 📚 ISTQB CTFL Study Hub with NotebookLM
 
-Este projeto foi desenvolvido com o objetivo de estruturar e potencializar os estudos para a certificação **ISTQB CTFL (Certified Tester Foundation Level)** utilizando o NotebookLM como ferramenta de apoio baseada em IA.
+**English** | [Português](README.pt-BR.md)
 
-A proposta vai além do estudo tradicional, buscando transformar conteúdo estático em aprendizado ativo, explorando raciocínio, aplicação prática e revisão contínua dos conceitos de qualidade de software.
+This project was created to structure and boost my studies for the **ISTQB CTFL (Certified Tester Foundation Level)** certification, using NotebookLM as an AI-based support tool.
 
----
-
-## 🎯 Contexto, Objetivo e Abordagem
-
-O tema central deste caderno é a certificação ISTQB CTFL, utilizando como base a documentação oficial do próprio ISTQB e conteúdos complementares relevantes da área.
-
-O objetivo principal é consolidar os fundamentos de testes de software de forma estruturada, utilizando IA para acelerar o aprendizado, melhorar a retenção e permitir exploração ativa dos conceitos.
-
-A abordagem adotada foi:
-
-- estudar conteúdo oficial  
-- utilizar NotebookLM para exploração ativa  
-- validar entendimento com perguntas e cenários  
-- identificar lacunas de conhecimento  
-- iterar continuamente até alcançar profundidade  
+The goal goes beyond traditional studying: it seeks to turn static content into active learning, exploring reasoning, practical application and continuous review of software quality concepts.
 
 ---
 
-## 📦 Curadoria de Fontes
+## 🎯 Context, Goal and Approach
 
-As fontes utilizadas foram selecionadas com base em confiabilidade, aderência ao conteúdo do CTFL e aplicabilidade prática:
+The central topic of this notebook is the ISTQB CTFL certification, based on ISTQB's own official documentation and relevant complementary content from the field.
 
-- https://www.istqb.org/ (Syllabus oficial CTFL)  
-- Glossário ISTQB  
-- Materiais complementares sobre fundamentos de testes  
-- Conteúdos de especialistas da área de QA (YouTube / comunidades técnicas)  
-- Documentações sobre técnicas de teste e boas práticas  
+The main goal is to consolidate the fundamentals of software testing in a structured way, using AI to speed up learning, improve retention and enable active exploration of the concepts.
 
-Essas fontes foram carregadas no NotebookLM para permitir exploração contextualizada.
+The approach adopted was:
 
----
-
-## 🧠 Engenharia de Prompts, Uso Prático e Troubleshooting
-
-O uso do NotebookLM foi baseado em experimentação estruturada de prompts, com foco em extrair valor real do conteúdo.
-
-Um dos principais prompts utilizados foi:
-
-Atue como um especialista certificado ISTQB CTFL.  
-Com base no conteúdo disponível, gere 10 perguntas no estilo da prova, 3 cenários práticos, explicação detalhada das respostas, identificação de lacunas de conhecimento e um plano de revisão focado. Priorize raciocínio, não memorização.
-
-Além disso, foram utilizados prompts como:
-
-Resuma este conteúdo destacando os pontos mais importantes para a certificação ISTQB.  
-Crie perguntas no estilo ISTQB com nível intermediário a avançado.  
-Crie um cenário real onde os conceitos devem ser aplicados.  
-Compare conceitos que geram confusão, como verificação vs validação.  
-Quais são os pontos mais críticos deste tema que costumam gerar erro em prova?
+- study the official content  
+- use NotebookLM for active exploration  
+- validate understanding with questions and scenarios  
+- identify knowledge gaps  
+- iterate continuously until reaching depth  
 
 ---
 
-Durante a utilização, alguns desafios foram identificados:
+## 📦 Source Curation
 
-- respostas superficiais quando os prompts eram genéricos  
-- dificuldade em obter cenários práticos sem direcionamento claro  
-- repetição de conteúdo sem aprofundamento  
-- baixa contextualização em algumas respostas  
+The sources were selected based on reliability, alignment with the CTFL content and practical applicability:
 
-Para resolver isso, foi necessário aplicar troubleshooting:
+- https://www.istqb.org/ (official CTFL Syllabus)  
+- ISTQB Glossary  
+- Complementary materials on testing fundamentals  
+- Content from QA experts (YouTube / technical communities)  
+- Documentation on test techniques and best practices  
 
-- refinar prompts com mais contexto  
-- exigir exemplos práticos  
-- focar em perguntas que exigem raciocínio  
-- iterar múltiplas vezes até obter profundidade  
-
-Aprendizado central: a qualidade da resposta da IA está diretamente ligada à qualidade do prompt.
+These sources were loaded into NotebookLM to enable contextualized exploration.
 
 ---
 
-## 📘 Consolidação do Conhecimento (Miniguia)
+## 🧠 Prompt Engineering, Practical Use and Troubleshooting
 
-Com base na exploração realizada, foi possível consolidar os principais pontos do CTFL:
+The use of NotebookLM was based on structured prompt experimentation, focused on extracting real value from the content.
 
-Fundamentos de Teste  
-Ciclo de Vida de Teste de Software  
-Testes Estáticos e Dinâmicos  
-Técnicas de Teste (caixa preta, caixa branca e experiência)  
-Gestão de Testes e Análise de Risco  
+One of the main prompts used was:
 
-Principais conceitos:
+Act as an ISTQB CTFL certified expert.  
+Based on the available content, generate 10 exam-style questions, 3 practical scenarios, a detailed explanation of the answers, an identification of knowledge gaps and a focused review plan. Prioritize reasoning, not memorization.
 
-Teste é o processo de avaliar um sistema para identificar defeitos  
-Defeito é um erro que pode causar comportamento incorreto  
-Verificação responde se estamos construindo corretamente  
-Validação responde se estamos construindo o produto certo  
-Teste de regressão garante que mudanças não afetem funcionalidades existentes  
-Teste exploratório é baseado em investigação e aprendizado  
+Other prompts used included:
+
+Summarize this content, highlighting the most important points for the ISTQB certification.  
+Create ISTQB-style questions at an intermediate to advanced level.  
+Create a real-world scenario where the concepts must be applied.  
+Compare concepts that are often confused, such as verification vs validation.  
+What are the most critical points of this topic that usually lead to mistakes in the exam?
 
 ---
 
-## 🔁 Reuso e Evolução
+During use, some challenges were identified:
 
-Os prompts utilizados neste projeto podem ser reutilizados para revisões futuras, adaptação para outros temas e evolução contínua do aprendizado.
+- shallow answers when prompts were generic  
+- difficulty getting practical scenarios without clear direction  
+- repeated content without going deeper  
+- low contextualization in some answers  
 
-A estrutura adotada permite:
+To solve this, troubleshooting was needed:
 
-- aprendizado iterativo  
-- identificação rápida de lacunas  
-- aplicação prática dos conceitos  
-- maior retenção de conhecimento  
+- refine prompts with more context  
+- require practical examples  
+- focus on questions that demand reasoning  
+- iterate multiple times until reaching depth  
 
----
-
-## 🚀 Conclusão
-
-Este projeto demonstra que a combinação de conteúdo estruturado, engenharia de prompts e uso de IA pode transformar significativamente o processo de aprendizado.
-
-Mais do que preparar para uma certificação, o foco foi desenvolver:
-
-- raciocínio analítico  
-- capacidade de investigação  
-- entendimento aplicado de qualidade de software  
+Key learning: the quality of the AI's answer is directly tied to the quality of the prompt.
 
 ---
 
-## 📢 Consideração Final
+## 📘 Knowledge Consolidation (Mini Guide)
 
-Aprender não é apenas consumir conteúdo.  
-É saber questionar, explorar, conectar conceitos e aplicar na prática.
+Based on the exploration, it was possible to consolidate the main CTFL topics:
+
+Fundamentals of Testing  
+Software Testing Lifecycle  
+Static and Dynamic Testing  
+Test Techniques (black-box, white-box and experience-based)  
+Test Management and Risk Analysis  
+
+Key concepts:
+
+Testing is the process of evaluating a system to identify defects  
+A defect is an error that can cause incorrect behavior  
+Verification answers whether we are building the product right  
+Validation answers whether we are building the right product  
+Regression testing ensures that changes do not affect existing functionality  
+Exploratory testing is based on investigation and learning  
+
+---
+
+## 🔁 Reuse and Evolution
+
+The prompts used in this project can be reused for future reviews, adapted to other topics and used for the continuous evolution of learning.
+
+The structure adopted enables:
+
+- iterative learning  
+- quick identification of gaps  
+- practical application of concepts  
+- greater knowledge retention  
+
+---
+
+## 🚀 Conclusion
+
+This project shows that combining structured content, prompt engineering and AI can significantly transform the learning process.
+
+More than preparing for a certification, the focus was on developing:
+
+- analytical reasoning  
+- investigation skills  
+- applied understanding of software quality  
+
+---
+
+## 📢 Final Thought
+
+Learning is not just consuming content.  
+It is knowing how to question, explore, connect concepts and apply them in practice.
